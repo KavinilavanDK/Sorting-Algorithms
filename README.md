@@ -61,7 +61,7 @@ print(list_of_nums)
 ![Screenshot 2024-10-16 151239](https://github.com/user-attachments/assets/4edef6aa-8cf2-4f6f-90aa-7de5920665f1)
 
 ### ii)
-![Uploading Screenshot 2024-10-16 151254.png…]()
+![Screenshot 2024-10-16 151254](https://github.com/user-attachments/assets/3c5f7ae5-e76d-431a-84f2-2ab49d573481)
 
 
 ## Result:
